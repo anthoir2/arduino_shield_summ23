@@ -1,0 +1,28 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\Arduino_Shield_Project_SUMM23\Project Outputs for Arduino_Shield_Project_SUMM23\Pick Place\Pick Place for arduino shield.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       16/08/23
+Time:       14:44
+Revision:   8ec05fa5022c0f8ebd351dc0cd2da02b18a15597
+Variant:    No variations
+Units used: mil
+
+Designator Comment                            Layer    Footprint                      Center-X(mil) Center-Y(mil) Rotation Description                                                                                              
+Rfbt       CRCW020156K2FNED                   TopLayer RESC0603X28X15NL05T05          1140.000      832.795       90       ""                                                                                                       
+Rfbb       ERJ2RKF1002X                       TopLayer RESC1005X40X25LL05T05          1134.252      750.000       180      "Chip Resistor, 10 KOhm, +/- 1%, 0.1 W, -55 to 155 degC, 0402 (1005 Metric), RoHS, Tape and Reel"        
+L1         NRS8030T3R3MJGJ                    TopLayer FP-NRS8030-MFG                 1150.000      350.000       0        "Inductor Power Shielded Wirewound 3.3uH 20% 100KHz Ferrite 4.2A 24.7m¦¸ DCR T/R"                         
+D2         MKRAWT-00-0000-0D0HG235H           TopLayer CREE-MK-R-2_V                  1800.000      450.000       180      "LED, White, 12 V, 2-Pin SMD, RoHS, Tape and Reel"                                                       
+D1         MKRAWT-00-0000-0D0HG235H           TopLayer CREE-MK-R-2_V                  1800.000      850.000       180      "LED, White, 12 V, 2-Pin SMD, RoHS, Tape and Reel"                                                       
+Cin5       "Capacitor 1 uF +/- 10% 25 V 0603" TopLayer CAPC1608X90X40LL10T20          1400.000      722.638       90       "Chip Capacitor, 1 uF, +/- 10%, 25 V, 0603 (1608 Metric)"                                                
+Cin4       "Capacitor 1 uF +/- 10% 25 V 0603" TopLayer CAPC1608X90X40LL10T20          1250.000      722.638       90       "Chip Capacitor, 1 uF, +/- 10%, 25 V, 0603 (1608 Metric)"                                                
+Cin3       "Capacitor 1 uF +/- 10% 25 V 0603" TopLayer CAPC1608X90X40LL10T20          700.000       650.000       270      "Chip Capacitor, 1 uF, +/- 10%, 25 V, 0603 (1608 Metric)"                                                
+Cin2       "Capacitor 1 uF +/- 10% 25 V 0603" TopLayer CAPC1608X90X40LL10T20          800.000       900.000       90       "Chip Capacitor, 1 uF, +/- 10%, 25 V, 0603 (1608 Metric)"                                                
+Cin1       "Capacitor 1 uF +/- 10% 25 V 0603" TopLayer CAPC1608X90X40LL10T20          700.000       900.000       90       "Chip Capacitor, 1 uF, +/- 10%, 25 V, 0603 (1608 Metric)"                                                
+J4         "10 pin connector"                 TopLayer 10_pin_connector-Footprint-1   1050.000      1902.500      0        "10pin connector"                                                                                        
+J3         "1_8 pin headeer"                  TopLayer 1_8_Pin_headers-Footprint-1    1350.000      102.500       0        "Board Connector, 8 Contact(s), 1 Row(s), Female, 0.049 inch Pitch, Crimp Terminal, Locking, Receptacle" 
+J5         "1_8 pin headeer"                  TopLayer 1_8_Pin_headers-Footprint-1    2050.000      1902.500      0        "Board Connector, 8 Contact(s), 1 Row(s), Female, 0.049 inch Pitch, Crimp Terminal, Locking, Receptacle" 
+J2         "samtec_1_6 headers"               TopLayer samtec_1_6_headers-Footprint-1 2150.000      102.500       0        "1 row 6 pin headers with 1.27mm radius for arduino shield"                                              
+*          TPS562200DDCR                      TopLayer SOT95P245X110-6N               1000.000      700.000       270      "Switching Regulator, 2A, 650kHz Switching Freq-Max, PDSO6"                                              

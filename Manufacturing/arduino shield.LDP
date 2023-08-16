@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Public\Documents\Altium\Arduino_Shield_Project_SUMM23\arduino shield.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=arduino shield-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=arduino shield-slotholes.txt|DrillLayers=gtl,gbl
