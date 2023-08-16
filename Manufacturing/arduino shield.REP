@@ -1,157 +1,60 @@
 *************************************************************
-FileName = arduino shield.GBR
-AutoAperture = True
+FileName = arduino shield.PcbDoc
+ODB++ directory structure
 *************************************************************
-Generating : Bottom Paste
-      File : arduino shield.GBP
+Generated File : C:\Users\Public\Documents\Altium\Arduino_Shield_Project_SUMM23\Project Outputs for Arduino_Shield_Project_SUMM23\ODB\odb\steps\pcb\profile
 
-    Adding Layer      : Bottom Paste
+Generated File : C:\Users\Public\Documents\Altium\Arduino_Shield_Project_SUMM23\Project Outputs for Arduino_Shield_Project_SUMM23\ODB\odb\steps\pcb\stephdr
 
-    Adding Layer      : Bottom Layer
+Generated File : C:\Users\Public\Documents\Altium\Arduino_Shield_Project_SUMM23\Project Outputs for Arduino_Shield_Project_SUMM23\ODB\odb\steps\pcb\attrlist
 
-    Adding Layer      : Multi-Layer
+Generated File : C:\Users\Public\Documents\Altium\Arduino_Shield_Project_SUMM23\Project Outputs for Arduino_Shield_Project_SUMM23\ODB\odb\steps\pcb\layers\dielectric_1\features
 
+Generated File : C:\Users\Public\Documents\Altium\Arduino_Shield_Project_SUMM23\Project Outputs for Arduino_Shield_Project_SUMM23\ODB\odb\steps\pcb\layers\dielectric_1\attrlist
 
-Used DCodes :
-*************************************************************
+Generated File : C:\Users\Public\Documents\Altium\Arduino_Shield_Project_SUMM23\Project Outputs for Arduino_Shield_Project_SUMM23\ODB\odb\steps\pcb\layers\bottom_overlay\features
 
-*************************************************************
-Generating : Top Paste
-      File : arduino shield.GTP
+Generated File : C:\Users\Public\Documents\Altium\Arduino_Shield_Project_SUMM23\Project Outputs for Arduino_Shield_Project_SUMM23\ODB\odb\steps\pcb\layers\bottom_overlay\attrlist
 
-    Adding Layer      : Top Paste
+Generated File : C:\Users\Public\Documents\Altium\Arduino_Shield_Project_SUMM23\Project Outputs for Arduino_Shield_Project_SUMM23\ODB\odb\steps\pcb\layers\bottom_paste\features
 
-    Adding Layer      : Top Layer
+Generated File : C:\Users\Public\Documents\Altium\Arduino_Shield_Project_SUMM23\Project Outputs for Arduino_Shield_Project_SUMM23\ODB\odb\steps\pcb\layers\bottom_paste\attrlist
 
-    Adding Layer      : Multi-Layer
+Generated File : C:\Users\Public\Documents\Altium\Arduino_Shield_Project_SUMM23\Project Outputs for Arduino_Shield_Project_SUMM23\ODB\odb\steps\pcb\layers\top_paste\features
 
+Generated File : C:\Users\Public\Documents\Altium\Arduino_Shield_Project_SUMM23\Project Outputs for Arduino_Shield_Project_SUMM23\ODB\odb\steps\pcb\layers\top_paste\attrlist
 
-Used DCodes :
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-*************************************************************
+Generated File : C:\Users\Public\Documents\Altium\Arduino_Shield_Project_SUMM23\Project Outputs for Arduino_Shield_Project_SUMM23\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\features
 
-*************************************************************
-Generating : Bottom Solder
-      File : arduino shield.GBS
+Generated File : C:\Users\Public\Documents\Altium\Arduino_Shield_Project_SUMM23\Project Outputs for Arduino_Shield_Project_SUMM23\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\attrlist
 
-    Adding Layer      : Bottom Solder
+Generated File : C:\Users\Public\Documents\Altium\Arduino_Shield_Project_SUMM23\Project Outputs for Arduino_Shield_Project_SUMM23\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\tools
 
-    Adding Layer      : Bottom Layer
+Generated File : C:\Users\Public\Documents\Altium\Arduino_Shield_Project_SUMM23\Project Outputs for Arduino_Shield_Project_SUMM23\ODB\odb\steps\pcb\layers\top_solder\features
 
-    Adding Layer      : Multi-Layer
+Generated File : C:\Users\Public\Documents\Altium\Arduino_Shield_Project_SUMM23\Project Outputs for Arduino_Shield_Project_SUMM23\ODB\odb\steps\pcb\layers\top_solder\attrlist
 
+Generated File : C:\Users\Public\Documents\Altium\Arduino_Shield_Project_SUMM23\Project Outputs for Arduino_Shield_Project_SUMM23\ODB\odb\steps\pcb\layers\bottom_solder\features
 
-Used DCodes :
-    D27
-    D28
-    D29
-    D35
-    D36
-*************************************************************
+Generated File : C:\Users\Public\Documents\Altium\Arduino_Shield_Project_SUMM23\Project Outputs for Arduino_Shield_Project_SUMM23\ODB\odb\steps\pcb\layers\bottom_solder\attrlist
 
-*************************************************************
-Generating : Top Solder
-      File : arduino shield.GTS
+Generated File : C:\Users\Public\Documents\Altium\Arduino_Shield_Project_SUMM23\Project Outputs for Arduino_Shield_Project_SUMM23\ODB\odb\steps\pcb\layers\top_overlay\features
 
-    Adding Layer      : Top Solder
+Generated File : C:\Users\Public\Documents\Altium\Arduino_Shield_Project_SUMM23\Project Outputs for Arduino_Shield_Project_SUMM23\ODB\odb\steps\pcb\layers\top_overlay\attrlist
 
-    Adding Layer      : Top Layer
+Generated File : C:\Users\Public\Documents\Altium\Arduino_Shield_Project_SUMM23\Project Outputs for Arduino_Shield_Project_SUMM23\ODB\odb\steps\pcb\layers\top_layer\features
 
-    Adding Layer      : Multi-Layer
+Generated File : C:\Users\Public\Documents\Altium\Arduino_Shield_Project_SUMM23\Project Outputs for Arduino_Shield_Project_SUMM23\ODB\odb\steps\pcb\layers\top_layer\attrlist
 
+Generated File : C:\Users\Public\Documents\Altium\Arduino_Shield_Project_SUMM23\Project Outputs for Arduino_Shield_Project_SUMM23\ODB\odb\steps\pcb\layers\bottom_layer\features
 
-Used DCodes :
-    D18
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-*************************************************************
+Generated File : C:\Users\Public\Documents\Altium\Arduino_Shield_Project_SUMM23\Project Outputs for Arduino_Shield_Project_SUMM23\ODB\odb\steps\pcb\layers\bottom_layer\attrlist
 
-*************************************************************
-Generating : Bottom Overlay
-      File : arduino shield.GBO
+Generated File : C:\Users\Public\Documents\Altium\Arduino_Shield_Project_SUMM23\Project Outputs for Arduino_Shield_Project_SUMM23\ODB\odb\steps\pcb\layers\comp_+_top\features
 
-    Adding Layer      : Bottom Overlay
+Generated File : C:\Users\Public\Documents\Altium\Arduino_Shield_Project_SUMM23\Project Outputs for Arduino_Shield_Project_SUMM23\ODB\odb\steps\pcb\layers\comp_+_top\components
 
+Generated File : C:\Users\Public\Documents\Altium\Arduino_Shield_Project_SUMM23\Project Outputs for Arduino_Shield_Project_SUMM23\ODB\odb\steps\pcb\eda\data
 
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : arduino shield.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : arduino shield.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-    D30
-    D31
-    D32
-    D33
-    D34
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : arduino shield.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D30
-    D31
-    D32
-    D33
-    D34
-*************************************************************
-
-*************************************************************
-Generating : Profile
-      File : arduino shield.GM
-
-
-Used DCodes :
-    D37
-*************************************************************
+Generated File : C:\Users\Public\Documents\Altium\Arduino_Shield_Project_SUMM23\Project Outputs for Arduino_Shield_Project_SUMM23\ODB\odb\matrix\matrix
 
